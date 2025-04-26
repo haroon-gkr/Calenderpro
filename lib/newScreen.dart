@@ -127,7 +127,7 @@ class _NewscreenState extends State<Newscreen> {
                 ],
                 gradient: LinearGradient(
                   colors: [
-                    const Color.fromARGB(255, 76, 204, 80),
+                    const Color.fromARGB(255, 65, 173, 68),
                     Color.fromARGB(255, 241, 241, 241),
                   ],
                   end: Alignment.topRight,
