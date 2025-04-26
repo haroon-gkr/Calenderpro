@@ -106,7 +106,7 @@ class _CalenderState extends State<Calender> {
             child: Text(
               "Static Calender",
               style: TextStyle(
-                fontSize: 30,
+                fontSize: 29,
                 fontWeight: FontWeight.bold,
                 color: Colors.green,
               ),
