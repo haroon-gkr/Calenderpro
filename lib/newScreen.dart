@@ -98,7 +98,7 @@ class _NewscreenState extends State<Newscreen> {
             child: Text(
               "Dynamic Calender",
               style: TextStyle(
-                fontSize: 30,
+                fontSize: 29,
                 fontWeight: FontWeight.bold,
                 color: Colors.green,
               ),
